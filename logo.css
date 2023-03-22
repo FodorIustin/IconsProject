@@ -1,0 +1,21 @@
+.general{
+  display: flex;
+    align-items: stretch;
+    margin-left: 10px;
+  }
+  
+  .a{
+    background-color: white;
+    width:260px;
+    height:170px;
+    margin-bottom:6px;
+    border:10px solid rgba(235, 235, 235,0.3);
+    
+  }
+  
+  .general2{
+    display: flex;
+    align-items: stretch;
+    margin-left: 150px;
+    margin-bottom:10px;
+  }
