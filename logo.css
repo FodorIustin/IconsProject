@@ -13,3 +13,35 @@
     color:grey;
     font-size:small;
   }
+  .button1{
+    background-color: rgb(252, 63, 192);
+    color:white;
+    border-style: none;
+    margin-right: 6px;
+    padding: 10px 18px;
+    border-radius: 20px;  
+  }
+  .buttondiv1{
+   
+   margin-top: 20px;
+   color: rgb(20, 219, 20);
+    
+  }
+  .button2{
+    background-color: white;
+    color: rgb(252, 63, 192);
+    border-style: none;
+    margin-right: 6px;
+    padding: 10px 18px;
+    border-color: rgb(252, 63, 192);  
+    border-style: solid;
+    border-radius: 20px;  
+    font-weight: bold;
+    margin-left: 45px;
+  }
+  .buttondiv2{
+   
+    margin-top: 20px;
+    margin-left: 120px;
+     
+   }
